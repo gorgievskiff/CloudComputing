@@ -1,0 +1,17 @@
+﻿@model FileModel
+
+
+@{
+    ViewData["Title"] = "File Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Execution Time: @Model.ExecutionTime ms</p>
+    <p>Execution Time: @(@Model.ExecutionTime/1000.0) seconds</p>
+    <div>
+        <a asp-action="Download" asp-controller="Home" class="btn btn-success">Download file</a>
+    </div>
+
+</div>
+

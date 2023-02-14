@@ -1,0 +1,7 @@
+C:\Users\gorgievskiff\source\repos\CloudComputing\CloudComputingApi\obj\Release\netcoreapp3.1\PubTmp\Out\CloudComputingApi.exe
+C:\Users\gorgievskiff\source\repos\CloudComputing\CloudComputingApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\gorgievskiff\source\repos\CloudComputing\CloudComputingApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\gorgievskiff\source\repos\CloudComputing\CloudComputingApi\obj\Release\netcoreapp3.1\PubTmp\Out\CloudComputingApi.dll
+C:\Users\gorgievskiff\source\repos\CloudComputing\CloudComputingApi\obj\Release\netcoreapp3.1\PubTmp\Out\CloudComputingApi.deps.json
+C:\Users\gorgievskiff\source\repos\CloudComputing\CloudComputingApi\obj\Release\netcoreapp3.1\PubTmp\Out\CloudComputingApi.runtimeconfig.json
+C:\Users\gorgievskiff\source\repos\CloudComputing\CloudComputingApi\obj\Release\netcoreapp3.1\PubTmp\Out\CloudComputingApi.pdb
